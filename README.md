@@ -1,2 +1,4 @@
-new
-===
+main()
+{
+pritnf("hello\n");
+}
